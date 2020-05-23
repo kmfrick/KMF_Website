@@ -63,6 +63,10 @@ paginate     = 10
     # alt = "Your example logo alt text"
 
 [menu]
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
 
 
   [[menu.main]]
