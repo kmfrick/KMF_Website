@@ -58,6 +58,12 @@ Prof. Notarstefano, unibo, 0926 (Ingegneria Informatica)
 
 [Exam notes (pdf, IT)](/college/notes/AC-T.pdf)
 
+### Software Engineering T
+
+Prof. Patella, unibo, 0926 (Ingegneria Informatica)
+
+[Exam notes (pdf, IT)](/college/notes/SE-T.pdf)
+
 ### The Study of Complex Dynamical Systems with Structural Methods
 
 Prof. Zattoni, unibo, Collegio Superiore, Seminar 89478
