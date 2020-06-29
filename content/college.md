@@ -36,21 +36,21 @@ Prof. Lanzoni and Pieracci, unibo, 0926 (Ingegneria Informatica)
 
 Prof. Corradi and Foschini, unibo, 0926 (Ingegneria Informatica)
 
-[Labs](https://www.github.com/kmfrick/Computer_Networks_T_Lab)
+[Labs](https://git.kmfrick.vision/kmfrick/Computer_Networks_T_Lab)
 ### Numerical Computing
 
 Prof. Piccolomini, unibo, 8009 (Informatica)
 
 [Exam notes (pdf, IT)](/college/notes/NC.pdf)
 
-[Labs](https://www.github.com/kmfrick/Numerical_Computing_Lab)
+[Labs](https://git.kmfrick.vision/kmfrick/Numerical_Computing_Lab)
 ### Statistical Models
 
 Prof. Galimberti, unibo, 8873 (Stats and Maths)
 
 [Formula sheet (pdf, IT)](/college/notes/SM.pdf)
 
-[Labs](https://www.github.com/kmfrick/Statistical_Models_Lab)
+[Labs](https://git.kmfrick.vision/kmfrick/Statistical_Models_Lab)
 
 ### Automatic Controls T
 
