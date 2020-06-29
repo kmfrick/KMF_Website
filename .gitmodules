@@ -1,7 +1,3 @@
 [submodule "themes/hello-friend-ng"]
 	path = themes/hello-friend-ng
 	url = https://github.com/kmfrick/hugo-theme-hello-friend-ng.git
-[submodule "public"]
-	path = public
-	url = https://github.com/kmfrick/kmfrick.github.io.git
-	branch = master
