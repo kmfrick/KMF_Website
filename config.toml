@@ -1,4 +1,4 @@
-baseurl      = "https://kmfrick.vision/"
+baseurl      = "//kmfrick.vision"
 title        = "Kevin Michael Frick"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -73,6 +73,11 @@ paginate     = 10
     identifier = "college"
     name       = "College"
     url        = "/college/"
+  
+[[menu.main]]
+    identifier = "git"
+    name       = "Git"
+    url        = "https://git.kmfrick.vision/kmfrick"
 
   [[menu.main]]
     identifier = "about"
