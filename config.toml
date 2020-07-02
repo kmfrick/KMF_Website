@@ -55,7 +55,7 @@ paginate     = 10
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "cat /home/kmfrick/.plan"
+      logoText = "cat .plan"
       logoHomeLink = "/"
     # or
     #
@@ -74,10 +74,15 @@ paginate     = 10
     name       = "College"
     url        = "/college/"
   
-[[menu.main]]
+  [[menu.main]]
     identifier = "git"
     name       = "Git"
     url        = "https://git.kmfrick.vision/kmfrick"
+
+  [[menu.main]]
+    identifier = "pgp"
+    name       = "PGP"
+    url        = "pgp.txt"
 
   [[menu.main]]
     identifier = "about"
