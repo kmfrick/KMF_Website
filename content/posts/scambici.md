@@ -16,11 +16,12 @@ Now, I openly dislike front-end development and - though a bit less - object-ori
 They're just too far from both maths and metal for my liking.
 That said, me and my two classmates working on this all knew we weren't going to turn a hundred Visio diagrams into any super-hacky assembly stuff that could run on a toaster any time soon, so we at least decided to engineer something that actually comes out of 2020.
 
-Code had to be Java or C#, but we could choose any architecture we wanted.
+Back-end code had to be Java or C#, but we could choose any architecture we wanted.
 We ended up designing and are now developing a REST API running on Microsoft Azure App Services, interfacing with an Azure SQL database.
+We had more freedom for the front-end, so we made a web GUI using HTML/CSS/jQuery. Yay for responsiveness, portability, and full-stack learning!
 
 We had to turn in our unit tests before we could start working on the code, so our whole development sprint is being as test-driven as it gets.
-We're using [Codecov](https://codecov.io) to ensure the highest coverage possible and write more tests while developing, as well as [BetterCodeHub](https://www.bettercodehub.com) to help understand how to make our code the most elegant possible.
+We used [BetterCodeHub](https://www.bettercodehub.com) to help understand how to make our code the most elegant possible.
 
 I started getting into UX design a while ago - just design, mind you! - so I designed the UI myself using [Figma](https://www.figma.com).
 I am fully convinced I still have a long way to go in UX design, but hey, I'm in computer engineering after all.
@@ -32,4 +33,4 @@ I want to learn how to make quick prototypes with [Bravo Studio](https://www.bra
 
 Designers and engineers, let me know what you think!
 
-
+**Update**: We published the code [on GitHub](https://github.com/kmfrick/Scambici) and [on my Gogs instance](https://git.kmfrick.vision/kmfrick/Scambici)!
