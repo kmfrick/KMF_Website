@@ -5,6 +5,7 @@ date : "2020-05-15"
 
 I'm a Computer Engineering student at [Collegio Superiore](http://www.collegio.unibo.it/it), University of Bologna, Italy.
 I worked as a computer vision student researcher at the [Robotics and Mechatronics](https://www.ram.eemcs.utwente.nl/) lab of the University of Twente, Netherlands, for the last three months of my bachelor's degree.
+I graduated *summa cum laude* with my bachelor's in July 2020 and started my master's in September 2020.
 
 In high school, doing competitive programming, I discovered the beauty of computational complexity theory, graph theory, dynamic programming and the like.
 In college I delved into the study of computer architectures, which I find as fascinating as statistics and machine learning.
