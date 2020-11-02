@@ -26,6 +26,7 @@ Prof. Ciampolini, unibo, 0926 (Ingegneria Informatica)
 Prof. Borghi, unibo, 0926 (Ingegneria Informatica)
 
 [Exam notes (pdf, IT)](/college/notes/ET-T.pdf)
+
 ### Electronics T
 
 Prof. Lanzoni and Pieracci, unibo, 0926 (Ingegneria Informatica)
@@ -37,6 +38,7 @@ Prof. Lanzoni and Pieracci, unibo, 0926 (Ingegneria Informatica)
 Prof. Corradi and Foschini, unibo, 0926 (Ingegneria Informatica)
 
 [Labs](https://git.kmfrick.vision/kmfrick/Computer_Networks_T_Lab)
+
 ### Numerical Computing
 
 Prof. Piccolomini, unibo, 8009 (Informatica)
@@ -63,6 +65,12 @@ Prof. Notarstefano, unibo, 0926 (Ingegneria Informatica)
 Prof. Patella, unibo, 0926 (Ingegneria Informatica)
 
 [Exam notes (pdf, IT)](/college/notes/SE-T.pdf)
+
+### Microeconomics 1
+
+Prof. Denicolò, unibo, 8408 (Economics)
+
+[Exam notes (pdf, EN)](/college/notes/uE-1.pdf)
 
 ### The Study of Complex Dynamical Systems with Structural Methods
 
