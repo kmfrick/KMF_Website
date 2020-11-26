@@ -76,7 +76,7 @@ paginate     = 10
   [[menu.main]]
     identifier = "git"
     name       = "Git"
-    url        = "https://git.kmfrick.vision/kmfrick"
+    url        = "https://github.com/kmfrick"
 
   [[menu.main]]
     identifier = "pgp"
