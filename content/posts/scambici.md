@@ -33,4 +33,4 @@ I want to learn how to make quick prototypes with [Bravo Studio](https://www.bra
 
 Designers and engineers, let me know what you think!
 
-**Update**: We published the code [on GitHub](https://github.com/kmfrick/Scambici) and [on my Gogs instance](https://git.kmfrick.vision/kmfrick/Scambici)!
+**Update**: We published the code [on GitHub](https://github.com/kmfrick/Scambici)!
