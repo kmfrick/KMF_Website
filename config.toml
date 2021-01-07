@@ -65,7 +65,8 @@ paginate     = 10
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "posts/"
+    url        = "/posts/"
+
 
 
   [[menu.main]]
@@ -81,9 +82,10 @@ paginate     = 10
   [[menu.main]]
     identifier = "pgp"
     name       = "PGP"
-    url        = "pgp.txt"
+    url        = "/pgp.txt"
 
   [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "/about/"
+
