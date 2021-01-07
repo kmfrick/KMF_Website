@@ -72,6 +72,12 @@ Prof. Denicolò, unibo, 8408 (Economics)
 
 [Exam notes (pdf, EN)](/college/notes/uE-1.pdf)
 
+### Computer Architecture M
+
+Prof. Bartolini and Cinotti, unibo, 0937 (Ingegneria Informatica)
+
+[Exam papers with proposed solutions (pdf, IT)](/college/notes/CA-M.pdf)
+
 ### The Study of Complex Dynamical Systems with Structural Methods
 
 Prof. Zattoni, unibo, Collegio Superiore, Seminar 89478
