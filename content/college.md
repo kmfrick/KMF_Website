@@ -78,6 +78,12 @@ Prof. Bartolini and Cinotti, unibo, 0937 (Ingegneria Informatica)
 
 [Exam papers with proposed solutions (pdf, IT)](/college/notes/CA-M.pdf)
 
+### Operating Systems M
+
+Prof. Ciampolini, unibo, 0937 (Ingegneria Informatica)
+
+[Exam notes (pdf, IT)](/college/notes/OS-M.pdf)
+
 ### The Study of Complex Dynamical Systems with Structural Methods
 
 Prof. Zattoni, unibo, Collegio Superiore, Seminar 89478
