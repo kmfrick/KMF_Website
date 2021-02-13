@@ -83,6 +83,13 @@ Prof. Bartolini and Cinotti, unibo, 0937 (Ingegneria Informatica)
 Prof. Ciampolini, unibo, 0937 (Ingegneria Informatica)
 
 [Exam notes (pdf, IT)](/college/notes/OS-M.pdf)
+[Solutions to old lab exams](https://github.com/kmfrick/Operating_Systems_M_Lab)
+
+### Information Security M
+
+Prof. Montanari, unibo, 0937 (Ingegneria Informatica)
+
+[Exam notes (pdf, IT)](/college/notes/IS-M.pdf)
 
 ### The Study of Complex Dynamical Systems with Structural Methods
 
