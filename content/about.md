@@ -14,6 +14,7 @@ There, I'm also teaching a more advanced course in algorithms and data structure
 When *I* was high school, doing competitive programming, I discovered the beauty of computational complexity theory, graph theory, dynamic programming and the like.
 In college I delved into the study of computer architectures, which I find as fascinating as statistics and machine learning.
 Mathematical and statistical modeling as well as low-level development thus became my primary interests.
+I'm pursuing these interest both in college, exploring [experimental and computational economics](https://buponline.com/prodotto/astrazioni-stenografiche-2020/) and in my free time, contributing to some open source projects such as [GemRB](https://gemrb.org/).
 
 In my free time I play the bass, cook or go running outside.
 I like reading, watching movies, playing video games and going to the theater.
